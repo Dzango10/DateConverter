@@ -1,0 +1,23 @@
+{
+  "name": "date-converter",
+  "version": "1.0.0",
+  "description": "Converts a date-time from one time zone to other, keeping daylight saving in consideration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzango10/DateConverter.git"
+  },
+  "keywords": [
+    "Date",
+    "Converter"
+  ],
+  "author": "A Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzango10/DateConverter/issues"
+  },
+  "homepage": "https://github.com/Dzango10/DateConverter#readme"
+}
