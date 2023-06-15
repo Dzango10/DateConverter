@@ -1,6 +1,6 @@
 {
-  "name": "date-converter",
-  "version": "1.0.0",
+  "name": "@anupamchowdhury/date-converter",
+  "version": "1.0.1",
   "description": "Converts a date-time from one time zone to other, keeping daylight saving in consideration.",
   "main": "index.js",
   "scripts": {

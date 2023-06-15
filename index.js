@@ -1,4 +1,4 @@
-function getLocalTime(timeZoneIdentifier, pstTime) {
+function getLocalTime(pstTime) {
     try {
         let timeZoneAbbr = "";
         // Define the time zone as a string, for example "America/Los_Angeles"
